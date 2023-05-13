@@ -2,4 +2,4 @@
 
 Created with CodeSandbox
 
-### For React for project, lecture from @(techdhamo0[https://github.com/techdhamo]
+### For React for project, lecture from @(techdhamo)[https://github.com/techdhamo]
