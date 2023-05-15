@@ -8,4 +8,4 @@ Created with CodeSandbox
 
 1. OTP fetch or entering page
 2. Asistance on universal design stylings
-3. Eli
+3. Eliminating the web app feel
